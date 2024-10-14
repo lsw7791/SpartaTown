@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75a6250f4ec4845168f18f89b349e86f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - penguinPrefab: {instanceID: 0}
+  - anotherCharacterPrefab: {instanceID: 0}
+  - spawnPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
